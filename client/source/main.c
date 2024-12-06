@@ -2,6 +2,7 @@
 
 int main()
 {
-    printf("Black fat");
+    printf("Connecting to server... \n");
+    connect_server();
     return 0;
 }
